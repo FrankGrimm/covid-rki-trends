@@ -46,6 +46,9 @@ function pushIndicator(descriptor, obj) {
         return;
     }
     
+    if (descriptor.indicator && descriptor.indicator.indexOf("divi_") > -1) {
+        return; // skip DIVI database content due to licensing
+    }
     if (!(descriptor.indicator in indicators)) {
         indicators[descriptor.indicator] = {};
     }
