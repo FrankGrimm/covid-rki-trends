@@ -4,7 +4,7 @@ Script to extract data from the [RKI Trends dashboard](https://www.rki.de/DE/Con
 
 Note that while this repository contains data in `data.json`, this does not contain DIVI indicators available in the dashboard due to their odd licensing.
 
-![screenshot](![alt text](https://github.com/FrankGrimm/covid-rki-trends/blob/main/screenshot.png?raw=true))
+![screenshot](https://github.com/FrankGrimm/covid-rki-trends/blob/main/screenshot.png?raw=true)
 
 ## running the project
 
