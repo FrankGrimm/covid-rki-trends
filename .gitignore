@@ -1,3 +1,8 @@
+data.bak
+data/**/*divi*
+raw/*.json
+rawhtml/*.html
+
 # Logs
 logs
 *.log

@@ -1,0 +1,76 @@
+Week, difference, region, region_id, trend, value
+2020-13, , Rheinland-Pfalz, 7, , 0.2443
+2020-14, 0.2443, Rheinland-Pfalz, 7, 0.1149, 0.4885
+2020-15, 0.2931, Rheinland-Pfalz, 7, 0.1379, 0.7817
+2020-16, 0.2443, Rheinland-Pfalz, 7, 0.1149, 1.0259
+2020-17, -0.0244, Rheinland-Pfalz, 7, -0.0137, 1.0015
+2020-18, -0.2931, Rheinland-Pfalz, 7, -0.1644, 0.7084
+2020-19, -0.2443, Rheinland-Pfalz, 7, -0.137, 0.4641
+2020-20, 0.0489, Rheinland-Pfalz, 7, 0.023, 0.513
+2020-21, -0.2443, Rheinland-Pfalz, 7, -0.137, 0.2687
+2020-22, -0.1954, Rheinland-Pfalz, 7, -0.1096, 0.0733
+2020-23, -0.0733, Rheinland-Pfalz, 7, -0.0411, 
+2020-24, 0.0244, Rheinland-Pfalz, 7, 0.0115, 0.0244
+2020-25, 0.0489, Rheinland-Pfalz, 7, 0.023, 0.0733
+2020-26, -0.0489, Rheinland-Pfalz, 7, -0.0274, 0.0244
+2020-27, -0.0244, Rheinland-Pfalz, 7, -0.0137, 
+2020-28, 0.0244, Rheinland-Pfalz, 7, 0.0115, 0.0244
+2020-29, 0.0244, Rheinland-Pfalz, 7, 0.0115, 0.0489
+2020-30, -0.0489, Rheinland-Pfalz, 7, -0.0274, 
+2020-31, 0.0244, Rheinland-Pfalz, 7, 0.0115, 0.0244
+2020-32, -0.0244, Rheinland-Pfalz, 7, -0.0137, 
+2020-33, 0.0733, Rheinland-Pfalz, 7, 0.0345, 0.0733
+2020-34, -0.0733, Rheinland-Pfalz, 7, -0.0411, 
+2020-35, 0.0244, Rheinland-Pfalz, 7, 0.0115, 0.0244
+2020-36, -0.0244, Rheinland-Pfalz, 7, -0.0137, 
+2020-37, 0.0733, Rheinland-Pfalz, 7, 0.0345, 0.0733
+2020-38, -0.0489, Rheinland-Pfalz, 7, -0.0274, 0.0244
+2020-39, 0.0977, Rheinland-Pfalz, 7, 0.046, 0.1221
+2020-40, -0.0244, Rheinland-Pfalz, 7, -0.0137, 0.0977
+2020-41, -0.0977, Rheinland-Pfalz, 7, -0.0548, 
+2020-42, 0.171, Rheinland-Pfalz, 7, 0.0805, 0.171
+2020-43, -0.0489, Rheinland-Pfalz, 7, -0.0274, 0.1221
+2020-44, 0.2931, Rheinland-Pfalz, 7, 0.1379, 0.4153
+2020-45, 0.342, Rheinland-Pfalz, 7, 0.1609, 0.7572
+2020-46, 0.3664, Rheinland-Pfalz, 7, 0.1724, 1.1236
+2020-47, 0.1954, Rheinland-Pfalz, 7, 0.092, 1.319
+2020-48, 1.0992, Rheinland-Pfalz, 7, 0.5172, 2.4182
+2020-49, 1.2702, Rheinland-Pfalz, 7, 0.5977, 3.6884
+2020-50, 0.7084, Rheinland-Pfalz, 7, 0.3333, 4.3968
+2020-51, 0.7328, Rheinland-Pfalz, 7, 0.3448, 5.1296
+2020-52, -0.2198, Rheinland-Pfalz, 7, -0.1233, 4.9097
+2020-53, 0.1954, Rheinland-Pfalz, 7, 0.092, 5.1052
+2021-01, 2.1251, Rheinland-Pfalz, 7, 1, 7.2303
+2021-02, -0.2443, Rheinland-Pfalz, 7, -0.137, 6.986
+2021-03, -1.3435, Rheinland-Pfalz, 7, -0.7534, 5.6425
+2021-04, 0.1221, Rheinland-Pfalz, 7, 0.0575, 5.7647
+2021-05, -0.5862, Rheinland-Pfalz, 7, -0.3288, 5.1784
+2021-06, -1.5144, Rheinland-Pfalz, 7, -0.8493, 3.664
+2021-07, -0.9282, Rheinland-Pfalz, 7, -0.5205, 2.7358
+2021-08, -0.2198, Rheinland-Pfalz, 7, -0.1233, 2.5159
+2021-09, -0.8305, Rheinland-Pfalz, 7, -0.4658, 1.6854
+2021-10, -0.4397, Rheinland-Pfalz, 7, -0.2466, 1.2458
+2021-11, -0.2198, Rheinland-Pfalz, 7, -0.1233, 1.0259
+2021-12, 0.2198, Rheinland-Pfalz, 7, 0.1034, 1.2458
+2021-13, -0.3908, Rheinland-Pfalz, 7, -0.2192, 0.8549
+2021-14, 0.4641, Rheinland-Pfalz, 7, 0.2184, 1.319
+2021-15, 0.0489, Rheinland-Pfalz, 7, 0.023, 1.3679
+2021-16, 0.1954, Rheinland-Pfalz, 7, 0.092, 1.5633
+2021-17, -0.4153, Rheinland-Pfalz, 7, -0.2329, 1.148
+2021-18, 0.1221, Rheinland-Pfalz, 7, 0.0575, 1.2702
+2021-19, -0.5618, Rheinland-Pfalz, 7, -0.3151, 0.7084
+2021-20, 0.5862, Rheinland-Pfalz, 7, 0.2759, 1.2946
+2021-21, -0.5862, Rheinland-Pfalz, 7, -0.3288, 0.7084
+2021-22, , Rheinland-Pfalz, 7, , 0.7084
+2021-23, 0.0244, Rheinland-Pfalz, 7, 0.0115, 0.7328
+2021-24, 1.3679, Rheinland-Pfalz, 7, 0.6437, 2.1007
+2021-25, -1.7831, Rheinland-Pfalz, 7, -1, 0.3175
+2021-26, -0.0489, Rheinland-Pfalz, 7, -0.0274, 0.2687
+2021-27, -0.2443, Rheinland-Pfalz, 7, -0.137, 0.0244
+2021-28, , Rheinland-Pfalz, 7, , 0.0244
+2021-29, 0.1954, Rheinland-Pfalz, 7, 0.092, 0.2198
+2021-30, -0.171, Rheinland-Pfalz, 7, -0.0959, 0.0489
+2021-31, 0.0733, Rheinland-Pfalz, 7, 0.0345, 0.1221
+2021-32, , Rheinland-Pfalz, 7, , 0.1221
+2021-33, -0.0489, Rheinland-Pfalz, 7, -0.0274, 0.0733
+2021-34, , Rheinland-Pfalz, 7, , 0.0733

@@ -2,15 +2,22 @@
  * Headless browser automation to extract data from RKI's COVID-19-Trends dashboard
  */
 
+const process = require("process");
+const path = require("path");
 const puppeteer = require('puppeteer');
 const fs = require("fs").promises;
 const stringify = require('json-stable-stringify');
 
+// const DASHBOARD_URL = "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/COVID-19-Trends/COVID-19-Trends.html?__blob=publicationFile#/home";
 const DASHBOARD_URL = "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/COVID-19-Trends/COVID-19-Trends.html?__blob=publicationFile#/home";
 const SCREENSHOT_FILENAME = "./screenshot.png";
 
+const DEBUG_MODE = false;
+let filemode = false;
+
 const state = {
     stage: "init",
+    console_intercept: false,
 };
 
 const indicators = {"descriptions": []}
@@ -46,17 +53,11 @@ function pushIndicator(descriptor, obj) {
         return;
     }
     
-    if (descriptor.indicator && descriptor.indicator.indexOf("divi_") > -1) {
-        return; // skip DIVI database content due to licensing
-    }
     if (!(descriptor.indicator in indicators)) {
         indicators[descriptor.indicator] = {};
     }
     const target = indicators[descriptor.indicator];
     const subkey = descriptorKey(descriptor);
-    if (subkey.indexOf("divi_") > -1) {
-        return; // skip DIVI database content due to licensing
-    }
 
     if (!(subkey in target)) {
         target[subkey] = [];
@@ -93,16 +94,35 @@ async function interceptConsole(msg) {
                 }
             }
             pushIndicator(descriptor, obj);
+            state.console_intercept = true;
         });
     });
 }
 
+function pad(d) {
+    return (""+d).padStart(2, "0");
+}
+
+function dateFilename(suffix) {
+    if (!filemode) {
+        const today = new Date();
+        return `${today.getFullYear()}-${pad(today.getMonth()+1)}-${pad(today.getDate())}-${suffix}`
+    } else {
+        const filename = process.argv[2];
+        const filedate = path.basename(filename).replaceAll("-data.html", "");
+        return `${filedate}-${suffix}`;
+    }
+}
+        
 (async () => {
     const launchOptions = {
-        headless: true,
+        headless: !DEBUG_MODE,
         defaultViewPort: {width: 1280, height: 800},
         isMobile: false,
     };
+    if (DEBUG_MODE) {
+        launchOptions['devtools'] = true;
+    }
     state.stage = "launching";
     const browser = await puppeteer.launch(launchOptions);
     const page = await browser.newPage();
@@ -110,7 +130,61 @@ async function interceptConsole(msg) {
     page.on('console', interceptConsole);
 
     state.stage = "loading"
-    await page.goto(DASHBOARD_URL, { waitUntil: 'networkidle2' });
+
+    let target_uri = DASHBOARD_URL;
+
+    if (process.argv.length > 2) {
+        target_uri = path.resolve(process.argv[2]);
+        target_uri = "file://" + target_uri;
+        filemode = true;
+    }
+
+    console.log(target_uri);
+
+    if (filemode) {
+        // check if data has to be modified
+        const filecontent = await fs.readFile(path.resolve(process.argv[2]), "utf-8");
+        const brotliQuery = "uncompressBrotli\\(.\\){";
+        const queryMatches = [...filecontent.matchAll(brotliQuery)];
+        if (queryMatches.length === 0) {
+            console.log("[filemode] target not found");
+            process.exit(1);
+        }
+        if (queryMatches.length > 1) {
+            console.log("[filemode] target not unique");
+            process.exit(1);
+        }
+        const match = queryMatches[0];
+        let parens = 1;
+        let func_start = filecontent.indexOf("{", match.index);
+        let func_end = func_start + 1;
+
+        while ((func_end < filecontent.length - 1) && (parens > 0)) {
+            const curchar = filecontent.charAt(func_end);
+            if (curchar === "{") {
+                parens++;
+            }
+            if (curchar === "}") {
+                parens--;
+            }
+            func_end++;
+        }
+        if (func_start === -1 || func_end === -1 || func_end < func_start) {
+            console.log("[filemode] could not identify target");
+            process.exit(1);
+        }
+        const prefix = filecontent.substring(0, func_start);
+        const suffix = filecontent.substring(func_end);
+
+        const replacement = "{const e=new Uint8Array(t),n=BrotliDecode(e),i=(new TextDecoder).decode(n);const r = JSON.parse(i); console.log(\"UNCOMPRESSED\", r); return r;}";
+        const newcontent = prefix + replacement + suffix;
+
+        await fs.writeFile("/tmp/rkitrends.html", newcontent, "utf-8");
+        console.log("[filemode] written modified");
+        target_uri = "file:///tmp/rkitrends.html"
+    }
+
+    await page.goto(target_uri, { waitUntil: 'networkidle2' });
 
     state.stage = "navigating"
     await page.evaluate(() => {
@@ -123,10 +197,19 @@ async function interceptConsole(msg) {
     });
     await waitFor(3000);
 
-    await page.screenshot({ path: SCREENSHOT_FILENAME });
+    await page.screenshot({ path: SCREENSHOT_FILENAME, fullPage: true });
+    const content = await page.content();
 
-    await browser.close();
+    if (!DEBUG_MODE) {
+        await browser.close();
+    }
 
     const data = stringify(indicators, {space: 2});
-    await fs.writeFile("./data.json", data, "utf-8");
+    const newfile = "./raw/" + dateFilename("data.json");
+    await fs.writeFile(newfile, data, "utf-8");
+
+    const newfileHtml = "./rawhtml/" + dateFilename("data.html");
+    await fs.writeFile(newfileHtml, content, "utf-8");
+
+    console.log("[update] complete", newfile)
 })();

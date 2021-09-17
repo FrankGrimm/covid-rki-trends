@@ -1,0 +1,548 @@
+Meldedatum, difference, group, region, region_id, trend, value
+2020-03-05, , Inc_5-50, Baden-Württemberg, 8, , 1
+2020-03-06, , Inc_5-50, Baden-Württemberg, 8, , 1
+2020-03-07, , Inc_5-50, Baden-Württemberg, 8, , 3
+2020-03-08, , Inc_5-50, Baden-Württemberg, 8, , 3
+2020-03-09, , Inc_5-50, Baden-Württemberg, 8, , 3
+2020-03-10, , Inc_5-50, Baden-Württemberg, 8, , 4
+2020-03-11, , Inc_5-50, Baden-Württemberg, 8, , 6
+2020-03-12, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 14
+2020-03-13, 17, Inc_5-50, Baden-Württemberg, 8, 0.8095, 18
+2020-03-14, 27, Inc_5-50, Baden-Württemberg, 8, 1.2857, 30
+2020-03-15, 33, Inc_5-50, Baden-Württemberg, 8, 1.5714, 36
+2020-03-16, 36, Inc_5-50, Baden-Württemberg, 8, 1.7143, 39
+2020-03-17, 36, Inc_5-50, Baden-Württemberg, 8, 1.7143, 40
+2020-03-18, 34, Inc_5-50, Baden-Württemberg, 8, 1.619, 40
+2020-03-19, 26, Inc_5-50, Baden-Württemberg, 8, 1.2381, 40
+2020-03-20, 21, Inc_5-50, Baden-Württemberg, 8, 1, 39
+2020-03-21, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 35
+2020-03-22, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 34
+2020-03-23, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 30
+2020-03-24, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 31
+2020-03-25, -12, Inc_5-50, Baden-Württemberg, 8, -0.3529, 28
+2020-03-26, -16, Inc_5-50, Baden-Württemberg, 8, -0.4706, 24
+2020-03-27, -20, Inc_5-50, Baden-Württemberg, 8, -0.5882, 19
+2020-03-28, -19, Inc_5-50, Baden-Württemberg, 8, -0.5588, 16
+2020-03-29, -18, Inc_5-50, Baden-Württemberg, 8, -0.5294, 16
+2020-03-30, -13, Inc_5-50, Baden-Württemberg, 8, -0.3824, 17
+2020-03-31, -18, Inc_5-50, Baden-Württemberg, 8, -0.5294, 13
+2020-04-01, -15, Inc_5-50, Baden-Württemberg, 8, -0.4412, 13
+2020-04-02, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 14
+2020-04-03, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 15
+2020-04-04, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 12
+2020-04-05, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 13
+2020-04-06, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 14
+2020-04-07, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 15
+2020-04-08, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 15
+2020-04-09, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 15
+2020-04-10, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 18
+2020-04-11, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 25
+2020-04-12, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 26
+2020-04-13, 12, Inc_5-50, Baden-Württemberg, 8, 0.5714, 26
+2020-04-14, 12, Inc_5-50, Baden-Württemberg, 8, 0.5714, 27
+2020-04-15, 17, Inc_5-50, Baden-Württemberg, 8, 0.8095, 32
+2020-04-16, 19, Inc_5-50, Baden-Württemberg, 8, 0.9048, 34
+2020-04-17, 16, Inc_5-50, Baden-Württemberg, 8, 0.7619, 34
+2020-04-18, 9, Inc_5-50, Baden-Württemberg, 8, 0.4286, 34
+2020-04-19, 10, Inc_5-50, Baden-Württemberg, 8, 0.4762, 36
+2020-04-20, 8, Inc_5-50, Baden-Württemberg, 8, 0.381, 34
+2020-04-21, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 33
+2020-04-22, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 34
+2020-04-23, , Inc_5-50, Baden-Württemberg, 8, , 34
+2020-04-24, , Inc_5-50, Baden-Württemberg, 8, , 34
+2020-04-25, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 36
+2020-04-26, , Inc_5-50, Baden-Württemberg, 8, , 36
+2020-04-27, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 36
+2020-04-28, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 38
+2020-04-29, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 39
+2020-04-30, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 40
+2020-05-01, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 39
+2020-05-02, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 37
+2020-05-03, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 34
+2020-05-04, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 35
+2020-05-05, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 34
+2020-05-06, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 32
+2020-05-07, -12, Inc_5-50, Baden-Württemberg, 8, -0.3529, 28
+2020-05-08, -18, Inc_5-50, Baden-Württemberg, 8, -0.5294, 21
+2020-05-09, -15, Inc_5-50, Baden-Württemberg, 8, -0.4412, 22
+2020-05-10, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 24
+2020-05-11, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 24
+2020-05-12, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 23
+2020-05-13, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 25
+2020-05-14, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 24
+2020-05-15, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 23
+2020-05-16, , Inc_5-50, Baden-Württemberg, 8, , 22
+2020-05-17, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 21
+2020-05-18, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 21
+2020-05-19, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 20
+2020-05-20, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 16
+2020-05-21, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 17
+2020-05-22, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 13
+2020-05-23, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 11
+2020-05-24, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 10
+2020-05-25, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 11
+2020-05-26, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 10
+2020-05-27, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 8
+2020-05-28, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 10
+2020-05-29, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 10
+2020-05-30, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 7
+2020-05-31, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 7
+2020-06-01, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 7
+2020-06-02, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 7
+2020-06-03, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 6
+2020-06-04, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 4
+2020-06-05, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 3
+2020-06-06, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 2
+2020-06-07, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 1
+2020-06-08, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 1
+2020-06-09, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 1
+2020-06-10, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 1
+2020-06-11, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 2
+2020-06-12, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 1
+2020-06-13, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 1
+2020-06-14, , Inc_5-50, Baden-Württemberg, 8, , 1
+2020-06-15, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 2
+2020-06-16, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 2
+2020-06-17, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 2
+2020-06-18, , Inc_5-50, Baden-Württemberg, 8, , 2
+2020-06-19, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 3
+2020-06-20, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 3
+2020-06-21, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 3
+2020-06-22, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 3
+2020-06-23, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 4
+2020-06-24, , Inc_5-50, Baden-Württemberg, 8, , 2
+2020-06-25, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 4
+2020-06-26, , Inc_5-50, Baden-Württemberg, 8, , 3
+2020-06-27, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 5
+2020-06-28, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 7
+2020-06-29, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 6
+2020-06-30, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 5
+2020-07-01, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 5
+2020-07-02, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 2
+2020-07-03, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 4
+2020-07-04, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 3
+2020-07-05, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 3
+2020-07-06, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 3
+2020-07-07, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 3
+2020-07-08, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 1
+2020-07-09, , Inc_5-50, Baden-Württemberg, 8, , 2
+2020-07-10, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 2
+2020-07-11, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 2
+2020-07-12, , Inc_5-50, Baden-Württemberg, 8, , 3
+2020-07-13, , Inc_5-50, Baden-Württemberg, 8, , 3
+2020-07-14, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 4
+2020-07-15, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 5
+2020-07-16, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 5
+2020-07-17, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 6
+2020-07-18, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 6
+2020-07-19, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 7
+2020-07-20, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 8
+2020-07-21, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 8
+2020-07-22, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 10
+2020-07-23, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 12
+2020-07-24, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 12
+2020-07-25, 9, Inc_5-50, Baden-Württemberg, 8, 0.4286, 15
+2020-07-26, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 13
+2020-07-27, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 12
+2020-07-28, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 11
+2020-07-29, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 12
+2020-07-30, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 14
+2020-07-31, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 16
+2020-08-01, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 13
+2020-08-02, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 14
+2020-08-03, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 14
+2020-08-04, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 12
+2020-08-05, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 14
+2020-08-06, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 18
+2020-08-07, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 15
+2020-08-08, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 15
+2020-08-09, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 12
+2020-08-10, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 13
+2020-08-11, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 14
+2020-08-12, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 16
+2020-08-13, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 21
+2020-08-14, 10, Inc_5-50, Baden-Württemberg, 8, 0.4762, 25
+2020-08-15, 12, Inc_5-50, Baden-Württemberg, 8, 0.5714, 27
+2020-08-16, 16, Inc_5-50, Baden-Württemberg, 8, 0.7619, 28
+2020-08-17, 18, Inc_5-50, Baden-Württemberg, 8, 0.8571, 31
+2020-08-18, 22, Inc_5-50, Baden-Württemberg, 8, 1.0476, 36
+2020-08-19, 23, Inc_5-50, Baden-Württemberg, 8, 1.0952, 39
+2020-08-20, 21, Inc_5-50, Baden-Württemberg, 8, 1, 42
+2020-08-21, 18, Inc_5-50, Baden-Württemberg, 8, 0.8571, 43
+2020-08-22, 16, Inc_5-50, Baden-Württemberg, 8, 0.7619, 43
+2020-08-23, 16, Inc_5-50, Baden-Württemberg, 8, 0.7619, 44
+2020-08-24, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 44
+2020-08-25, 8, Inc_5-50, Baden-Württemberg, 8, 0.381, 44
+2020-08-26, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 44
+2020-08-27, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-08-28, , Inc_5-50, Baden-Württemberg, 8, , 43
+2020-08-29, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 44
+2020-08-30, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 42
+2020-08-31, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 42
+2020-09-01, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 42
+2020-09-02, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 42
+2020-09-03, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-04, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-05, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 42
+2020-09-06, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-07, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-08, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-09, , Inc_5-50, Baden-Württemberg, 8, , 42
+2020-09-10, , Inc_5-50, Baden-Württemberg, 8, , 42
+2020-09-11, , Inc_5-50, Baden-Württemberg, 8, , 42
+2020-09-12, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 44
+2020-09-13, , Inc_5-50, Baden-Württemberg, 8, , 43
+2020-09-14, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-15, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-16, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-17, , Inc_5-50, Baden-Württemberg, 8, , 42
+2020-09-18, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-19, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 43
+2020-09-20, , Inc_5-50, Baden-Württemberg, 8, , 43
+2020-09-21, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-22, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 43
+2020-09-23, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-24, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 41
+2020-09-25, , Inc_5-50, Baden-Württemberg, 8, , 43
+2020-09-26, , Inc_5-50, Baden-Württemberg, 8, , 43
+2020-09-27, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 41
+2020-09-28, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-29, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-09-30, , Inc_5-50, Baden-Württemberg, 8, , 42
+2020-10-01, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 43
+2020-10-02, , Inc_5-50, Baden-Württemberg, 8, , 43
+2020-10-03, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 44
+2020-10-04, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 43
+2020-10-05, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 44
+2020-10-06, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 44
+2020-10-07, , Inc_5-50, Baden-Württemberg, 8, , 42
+2020-10-08, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 41
+2020-10-09, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 42
+2020-10-10, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 41
+2020-10-11, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 41
+2020-10-12, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 41
+2020-10-13, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 41
+2020-10-14, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 40
+2020-10-15, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 37
+2020-10-16, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 32
+2020-10-17, -13, Inc_5-50, Baden-Württemberg, 8, -0.3824, 28
+2020-10-18, -14, Inc_5-50, Baden-Württemberg, 8, -0.4118, 27
+2020-10-19, -16, Inc_5-50, Baden-Württemberg, 8, -0.4706, 25
+2020-10-20, -18, Inc_5-50, Baden-Württemberg, 8, -0.5294, 23
+2020-10-21, -23, Inc_5-50, Baden-Württemberg, 8, -0.6765, 17
+2020-10-22, -27, Inc_5-50, Baden-Württemberg, 8, -0.7941, 10
+2020-10-23, -25, Inc_5-50, Baden-Württemberg, 8, -0.7353, 7
+2020-10-24, -21, Inc_5-50, Baden-Württemberg, 8, -0.6176, 7
+2020-10-25, -21, Inc_5-50, Baden-Württemberg, 8, -0.6176, 6
+2020-10-26, -19, Inc_5-50, Baden-Württemberg, 8, -0.5588, 6
+2020-10-27, -17, Inc_5-50, Baden-Württemberg, 8, -0.5, 6
+2020-10-28, -12, Inc_5-50, Baden-Württemberg, 8, -0.3529, 5
+2020-10-29, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 3
+2020-10-30, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 
+2020-10-31, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 
+2020-11-01, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 
+2020-11-02, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 
+2020-11-03, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 
+2020-11-04, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 
+2020-11-05, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 
+2020-11-06, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-07, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-08, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-09, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-10, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-11, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-12, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-13, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-14, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-15, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-16, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-17, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-18, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-19, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-20, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-21, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-22, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-23, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-24, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-25, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-26, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-27, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-28, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-29, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-11-30, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-01, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-02, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-03, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-04, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-05, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-06, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-07, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-08, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-09, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-10, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-11, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-12, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-13, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-14, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-15, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-16, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-17, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-18, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-19, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-20, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-21, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-22, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-23, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-24, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-25, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-26, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-27, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-28, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-29, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-30, , Inc_5-50, Baden-Württemberg, 8, , 
+2020-12-31, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-01, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-02, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-03, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-04, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-05, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-06, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-07, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-08, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-09, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-10, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-11, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-12, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-13, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-14, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-15, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-16, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-17, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-18, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-19, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-20, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-21, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-01-22, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-01-23, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-01-24, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 4
+2021-01-25, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 2
+2021-01-26, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 3
+2021-01-27, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 3
+2021-01-28, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 5
+2021-01-29, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 4
+2021-01-30, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 6
+2021-01-31, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 6
+2021-02-01, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 9
+2021-02-02, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 9
+2021-02-03, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 10
+2021-02-04, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 9
+2021-02-05, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 9
+2021-02-06, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 13
+2021-02-07, 9, Inc_5-50, Baden-Württemberg, 8, 0.4286, 15
+2021-02-08, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 16
+2021-02-09, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 15
+2021-02-10, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 17
+2021-02-11, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 16
+2021-02-12, 11, Inc_5-50, Baden-Württemberg, 8, 0.5238, 20
+2021-02-13, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 19
+2021-02-14, 9, Inc_5-50, Baden-Württemberg, 8, 0.4286, 24
+2021-02-15, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 23
+2021-02-16, 10, Inc_5-50, Baden-Württemberg, 8, 0.4762, 25
+2021-02-17, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 30
+2021-02-18, 19, Inc_5-50, Baden-Württemberg, 8, 0.9048, 35
+2021-02-19, 12, Inc_5-50, Baden-Württemberg, 8, 0.5714, 32
+2021-02-20, 12, Inc_5-50, Baden-Württemberg, 8, 0.5714, 31
+2021-02-21, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 30
+2021-02-22, 8, Inc_5-50, Baden-Württemberg, 8, 0.381, 31
+2021-02-23, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 30
+2021-02-24, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 27
+2021-02-25, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 24
+2021-02-26, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 24
+2021-02-27, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 24
+2021-02-28, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 23
+2021-03-01, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 22
+2021-03-02, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 21
+2021-03-03, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 20
+2021-03-04, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 17
+2021-03-05, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 15
+2021-03-06, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 17
+2021-03-07, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 17
+2021-03-08, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 16
+2021-03-09, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 15
+2021-03-10, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 17
+2021-03-11, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 12
+2021-03-12, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 12
+2021-03-13, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 10
+2021-03-14, -6, Inc_5-50, Baden-Württemberg, 8, -0.1765, 11
+2021-03-15, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 8
+2021-03-16, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 7
+2021-03-17, -12, Inc_5-50, Baden-Württemberg, 8, -0.3529, 5
+2021-03-18, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 3
+2021-03-19, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 3
+2021-03-20, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 2
+2021-03-21, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 
+2021-03-22, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 
+2021-03-23, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 
+2021-03-24, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 
+2021-03-25, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 
+2021-03-26, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 
+2021-03-27, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 
+2021-03-28, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-03-29, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-03-30, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-03-31, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-01, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-02, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-03, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-04, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-05, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-06, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-07, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-08, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-09, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-10, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-11, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-12, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-13, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-14, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-15, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-16, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-17, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-18, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-19, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-20, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-21, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-22, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-23, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-24, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-25, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-26, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-27, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-28, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-29, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-04-30, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-05-01, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-05-02, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-05-03, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-05-04, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-05-05, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-05-06, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-05-07, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-05-08, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-05-09, , Inc_5-50, Baden-Württemberg, 8, , 
+2021-05-10, , Inc_5-50, Baden-Württemberg, 8, , 1
+2021-05-11, , Inc_5-50, Baden-Württemberg, 8, , 1
+2021-05-12, , Inc_5-50, Baden-Württemberg, 8, , 1
+2021-05-13, , Inc_5-50, Baden-Württemberg, 8, , 1
+2021-05-14, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 1
+2021-05-15, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 4
+2021-05-16, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 4
+2021-05-17, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 3
+2021-05-18, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 3
+2021-05-19, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 5
+2021-05-20, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 5
+2021-05-21, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 5
+2021-05-22, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 5
+2021-05-23, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 5
+2021-05-24, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 5
+2021-05-25, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 7
+2021-05-26, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 18
+2021-05-27, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 18
+2021-05-28, 12, Inc_5-50, Baden-Württemberg, 8, 0.5714, 17
+2021-05-29, 15, Inc_5-50, Baden-Württemberg, 8, 0.7143, 20
+2021-05-30, 19, Inc_5-50, Baden-Württemberg, 8, 0.9048, 24
+2021-05-31, 21, Inc_5-50, Baden-Württemberg, 8, 1, 26
+2021-06-01, 17, Inc_5-50, Baden-Württemberg, 8, 0.8095, 24
+2021-06-02, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 22
+2021-06-03, 8, Inc_5-50, Baden-Württemberg, 8, 0.381, 26
+2021-06-04, 17, Inc_5-50, Baden-Württemberg, 8, 0.8095, 34
+2021-06-05, 17, Inc_5-50, Baden-Württemberg, 8, 0.8095, 37
+2021-06-06, 14, Inc_5-50, Baden-Württemberg, 8, 0.6667, 38
+2021-06-07, 14, Inc_5-50, Baden-Württemberg, 8, 0.6667, 40
+2021-06-08, 16, Inc_5-50, Baden-Württemberg, 8, 0.7619, 40
+2021-06-09, 17, Inc_5-50, Baden-Württemberg, 8, 0.8095, 39
+2021-06-10, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 39
+2021-06-11, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 39
+2021-06-12, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 38
+2021-06-13, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 41
+2021-06-14, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 41
+2021-06-15, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 42
+2021-06-16, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 42
+2021-06-17, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 43
+2021-06-18, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 43
+2021-06-19, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 41
+2021-06-20, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 40
+2021-06-21, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 40
+2021-06-22, -4, Inc_5-50, Baden-Württemberg, 8, -0.1176, 38
+2021-06-23, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 37
+2021-06-24, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 36
+2021-06-25, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 32
+2021-06-26, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 31
+2021-06-27, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 29
+2021-06-28, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 29
+2021-06-29, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 31
+2021-06-30, -14, Inc_5-50, Baden-Württemberg, 8, -0.4118, 23
+2021-07-01, -12, Inc_5-50, Baden-Württemberg, 8, -0.3529, 24
+2021-07-02, -7, Inc_5-50, Baden-Württemberg, 8, -0.2059, 25
+2021-07-03, -10, Inc_5-50, Baden-Württemberg, 8, -0.2941, 21
+2021-07-04, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 21
+2021-07-05, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 21
+2021-07-06, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 20
+2021-07-07, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 22
+2021-07-08, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 22
+2021-07-09, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 23
+2021-07-10, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 24
+2021-07-11, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 25
+2021-07-12, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 26
+2021-07-13, 7, Inc_5-50, Baden-Württemberg, 8, 0.3333, 27
+2021-07-14, 9, Inc_5-50, Baden-Württemberg, 8, 0.4286, 31
+2021-07-15, 13, Inc_5-50, Baden-Württemberg, 8, 0.619, 35
+2021-07-16, 11, Inc_5-50, Baden-Württemberg, 8, 0.5238, 34
+2021-07-17, 10, Inc_5-50, Baden-Württemberg, 8, 0.4762, 34
+2021-07-18, 11, Inc_5-50, Baden-Württemberg, 8, 0.5238, 36
+2021-07-19, 11, Inc_5-50, Baden-Württemberg, 8, 0.5238, 37
+2021-07-20, 8, Inc_5-50, Baden-Württemberg, 8, 0.381, 35
+2021-07-21, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 37
+2021-07-22, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 36
+2021-07-23, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 39
+2021-07-24, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 40
+2021-07-25, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 40
+2021-07-26, 4, Inc_5-50, Baden-Württemberg, 8, 0.1905, 41
+2021-07-27, 6, Inc_5-50, Baden-Württemberg, 8, 0.2857, 41
+2021-07-28, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 42
+2021-07-29, 5, Inc_5-50, Baden-Württemberg, 8, 0.2381, 41
+2021-07-30, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 41
+2021-07-31, , Inc_5-50, Baden-Württemberg, 8, , 40
+2021-08-01, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 41
+2021-08-02, , Inc_5-50, Baden-Württemberg, 8, , 41
+2021-08-03, , Inc_5-50, Baden-Württemberg, 8, , 41
+2021-08-04, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 41
+2021-08-05, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 43
+2021-08-06, 2, Inc_5-50, Baden-Württemberg, 8, 0.0952, 43
+2021-08-07, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 43
+2021-08-08, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 44
+2021-08-09, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 44
+2021-08-10, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 44
+2021-08-11, 3, Inc_5-50, Baden-Württemberg, 8, 0.1429, 44
+2021-08-12, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 44
+2021-08-13, 1, Inc_5-50, Baden-Württemberg, 8, 0.0476, 44
+2021-08-14, , Inc_5-50, Baden-Württemberg, 8, , 43
+2021-08-15, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 43
+2021-08-16, -1, Inc_5-50, Baden-Württemberg, 8, -0.0294, 43
+2021-08-17, -2, Inc_5-50, Baden-Württemberg, 8, -0.0588, 42
+2021-08-18, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 41
+2021-08-19, -5, Inc_5-50, Baden-Württemberg, 8, -0.1471, 39
+2021-08-20, -9, Inc_5-50, Baden-Württemberg, 8, -0.2647, 35
+2021-08-21, -11, Inc_5-50, Baden-Württemberg, 8, -0.3235, 32
+2021-08-22, -17, Inc_5-50, Baden-Württemberg, 8, -0.5, 26
+2021-08-23, -17, Inc_5-50, Baden-Württemberg, 8, -0.5, 26
+2021-08-24, -20, Inc_5-50, Baden-Württemberg, 8, -0.5882, 22
+2021-08-25, -30, Inc_5-50, Baden-Württemberg, 8, -0.8824, 11
+2021-08-26, -34, Inc_5-50, Baden-Württemberg, 8, -1, 5
+2021-08-27, -32, Inc_5-50, Baden-Württemberg, 8, -0.9412, 3
+2021-08-28, -29, Inc_5-50, Baden-Württemberg, 8, -0.8529, 3
+2021-08-29, -23, Inc_5-50, Baden-Württemberg, 8, -0.6765, 3
+2021-08-30, -24, Inc_5-50, Baden-Württemberg, 8, -0.7059, 2
+2021-08-31, -20, Inc_5-50, Baden-Württemberg, 8, -0.5882, 2
+2021-09-01, -8, Inc_5-50, Baden-Württemberg, 8, -0.2353, 3
+2021-09-02, -3, Inc_5-50, Baden-Württemberg, 8, -0.0882, 2

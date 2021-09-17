@@ -1,0 +1,565 @@
+Meldedatum, region, region_id, value, difference, trend
+2020-03-03, Mecklenburg-Vorpommern, 13, , , 
+2020-03-04, Mecklenburg-Vorpommern, 13, , , 
+2020-03-05, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-03-06, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-03-07, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-03-08, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-03-09, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-03-10, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-03-11, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-03-12, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-03-13, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-03-14, Mecklenburg-Vorpommern, 13, 0.1862, , 
+2020-03-15, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-03-16, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-03-17, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-03-18, Mecklenburg-Vorpommern, 13, 0.3104, 0.0621, 0.0076
+2020-03-19, Mecklenburg-Vorpommern, 13, 0.6829, 0.1862, 0.0229
+2020-03-20, Mecklenburg-Vorpommern, 13, 0.745, 0.2483, 0.0305
+2020-03-21, Mecklenburg-Vorpommern, 13, 0.745, 0.3725, 0.0458
+2020-03-22, Mecklenburg-Vorpommern, 13, 0.745, 0.2483, 0.0305
+2020-03-23, Mecklenburg-Vorpommern, 13, 0.6829, 0.2483, 0.0305
+2020-03-24, Mecklenburg-Vorpommern, 13, 0.745, 0.3725, 0.0458
+2020-03-25, Mecklenburg-Vorpommern, 13, 0.8071, 0.3725, 0.0458
+2020-03-26, Mecklenburg-Vorpommern, 13, 0.6829, 0.1242, 0.0153
+2020-03-27, Mecklenburg-Vorpommern, 13, 0.8691, 0.0621, 0.0076
+2020-03-28, Mecklenburg-Vorpommern, 13, 1.2416, 0.0621, 0.0076
+2020-03-29, Mecklenburg-Vorpommern, 13, 1.3658, 0.4967, 0.0611
+2020-03-30, Mecklenburg-Vorpommern, 13, 1.49, 0.745, 0.0916
+2020-03-31, Mecklenburg-Vorpommern, 13, 1.49, 0.8071, 0.0992
+2020-04-01, Mecklenburg-Vorpommern, 13, 2.1729, 1.3037, 0.1603
+2020-04-02, Mecklenburg-Vorpommern, 13, 2.5454, 1.6762, 0.2061
+2020-04-03, Mecklenburg-Vorpommern, 13, 2.6695, 1.9245, 0.2366
+2020-04-04, Mecklenburg-Vorpommern, 13, 2.4212, 1.6762, 0.2061
+2020-04-05, Mecklenburg-Vorpommern, 13, 2.3591, 1.2416, 0.1527
+2020-04-06, Mecklenburg-Vorpommern, 13, 2.235, 0.8691, 0.1069
+2020-04-07, Mecklenburg-Vorpommern, 13, 2.235, 0.745, 0.0916
+2020-04-08, Mecklenburg-Vorpommern, 13, 1.9245, -0.3104, -0.0476
+2020-04-09, Mecklenburg-Vorpommern, 13, 1.4279, -0.9312, -0.1429
+2020-04-10, Mecklenburg-Vorpommern, 13, 1.2416, -1.4279, -0.219
+2020-04-11, Mecklenburg-Vorpommern, 13, 1.1175, -1.4279, -0.219
+2020-04-12, Mecklenburg-Vorpommern, 13, 0.9933, -1.4279, -0.219
+2020-04-13, Mecklenburg-Vorpommern, 13, 0.9933, -1.2416, -0.1905
+2020-04-14, Mecklenburg-Vorpommern, 13, 0.9933, -1.3658, -0.2095
+2020-04-15, Mecklenburg-Vorpommern, 13, 0.6208, -0.9312, -0.1429
+2020-04-16, Mecklenburg-Vorpommern, 13, 0.5587, -0.6829, -0.1048
+2020-04-17, Mecklenburg-Vorpommern, 13, 0.3725, -0.6208, -0.0952
+2020-04-18, Mecklenburg-Vorpommern, 13, 0.2483, -0.6208, -0.0952
+2020-04-19, Mecklenburg-Vorpommern, 13, 0.3104, -0.5587, -0.0857
+2020-04-20, Mecklenburg-Vorpommern, 13, 0.3104, -0.6208, -0.0952
+2020-04-21, Mecklenburg-Vorpommern, 13, 0.2483, -0.6208, -0.0952
+2020-04-22, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-04-23, Mecklenburg-Vorpommern, 13, 0.1862, -0.4967, -0.0762
+2020-04-24, Mecklenburg-Vorpommern, 13, 0.1862, -0.3104, -0.0476
+2020-04-25, Mecklenburg-Vorpommern, 13, 0.1862, -0.1242, -0.019
+2020-04-26, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2020-04-27, Mecklenburg-Vorpommern, 13, 0.2483, 0.1242, 0.0153
+2020-04-28, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2020-04-29, Mecklenburg-Vorpommern, 13, 0.3725, 0.3104, 0.0382
+2020-04-30, Mecklenburg-Vorpommern, 13, 0.3104, 0.2483, 0.0305
+2020-05-01, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2020-05-02, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2020-05-03, Mecklenburg-Vorpommern, 13, 0.1862, , 
+2020-05-04, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-05-05, Mecklenburg-Vorpommern, 13, 0.1242, -0.1862, -0.0286
+2020-05-06, Mecklenburg-Vorpommern, 13, 0.1862, -0.2483, -0.0381
+2020-05-07, Mecklenburg-Vorpommern, 13, 0.1242, -0.1862, -0.0286
+2020-05-08, Mecklenburg-Vorpommern, 13, 0.1862, -0.1862, -0.0286
+2020-05-09, Mecklenburg-Vorpommern, 13, 0.1862, -0.1862, -0.0286
+2020-05-10, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-05-11, Mecklenburg-Vorpommern, 13, 0.3104, 0.0621, 0.0076
+2020-05-12, Mecklenburg-Vorpommern, 13, 0.4346, 0.1862, 0.0229
+2020-05-13, Mecklenburg-Vorpommern, 13, 0.3725, 0.0621, 0.0076
+2020-05-14, Mecklenburg-Vorpommern, 13, 0.3725, 0.0621, 0.0076
+2020-05-15, Mecklenburg-Vorpommern, 13, 0.4346, 0.1242, 0.0153
+2020-05-16, Mecklenburg-Vorpommern, 13, 0.4346, 0.2483, 0.0305
+2020-05-17, Mecklenburg-Vorpommern, 13, 0.4346, 0.3725, 0.0458
+2020-05-18, Mecklenburg-Vorpommern, 13, 0.3104, 0.1242, 0.0153
+2020-05-19, Mecklenburg-Vorpommern, 13, 0.1862, , 
+2020-05-20, Mecklenburg-Vorpommern, 13, 0.2483, 0.2483, 0.0305
+2020-05-21, Mecklenburg-Vorpommern, 13, 0.2483, 0.2483, 0.0305
+2020-05-22, Mecklenburg-Vorpommern, 13, 0.1242, 0.0621, 0.0076
+2020-05-23, Mecklenburg-Vorpommern, 13, 0.1242, -0.0621, -0.0095
+2020-05-24, Mecklenburg-Vorpommern, 13, 0.1242, -0.3725, -0.0571
+2020-05-25, Mecklenburg-Vorpommern, 13, 0.1242, -0.2483, -0.0381
+2020-05-26, Mecklenburg-Vorpommern, 13, 0.1862, -0.1862, -0.0286
+2020-05-27, Mecklenburg-Vorpommern, 13, 0.0621, -0.3725, -0.0571
+2020-05-28, Mecklenburg-Vorpommern, 13, 0.0621, -0.3725, -0.0571
+2020-05-29, Mecklenburg-Vorpommern, 13, 0.0621, -0.2483, -0.0381
+2020-05-30, Mecklenburg-Vorpommern, 13, 0.0621, -0.2483, -0.0381
+2020-05-31, Mecklenburg-Vorpommern, 13, 0.0621, -0.0621, -0.0095
+2020-06-01, Mecklenburg-Vorpommern, 13, 0.0621, -0.0621, -0.0095
+2020-06-02, Mecklenburg-Vorpommern, 13, , , 
+2020-06-03, Mecklenburg-Vorpommern, 13, , , 
+2020-06-04, Mecklenburg-Vorpommern, 13, , , 
+2020-06-05, Mecklenburg-Vorpommern, 13, , , 
+2020-06-06, Mecklenburg-Vorpommern, 13, , , 
+2020-06-07, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-06-08, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-06-09, Mecklenburg-Vorpommern, 13, 0.1242, -0.0621, -0.0095
+2020-06-10, Mecklenburg-Vorpommern, 13, 0.1862, , 
+2020-06-11, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2020-06-12, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2020-06-13, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2020-06-14, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-06-15, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-06-16, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-06-17, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-06-18, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-06-19, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-06-20, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-06-21, Mecklenburg-Vorpommern, 13, 0.0621, -0.0621, -0.0095
+2020-06-22, Mecklenburg-Vorpommern, 13, 0.0621, -0.0621, -0.0095
+2020-06-23, Mecklenburg-Vorpommern, 13, , , 
+2020-06-24, Mecklenburg-Vorpommern, 13, , , 
+2020-06-25, Mecklenburg-Vorpommern, 13, , , 
+2020-06-26, Mecklenburg-Vorpommern, 13, , , 
+2020-06-27, Mecklenburg-Vorpommern, 13, , , 
+2020-06-28, Mecklenburg-Vorpommern, 13, , , 
+2020-06-29, Mecklenburg-Vorpommern, 13, , , 
+2020-06-30, Mecklenburg-Vorpommern, 13, 0.0621, -0.0621, -0.0095
+2020-07-01, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-02, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-03, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-04, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-05, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-06, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-07, Mecklenburg-Vorpommern, 13, , , 
+2020-07-08, Mecklenburg-Vorpommern, 13, , , 
+2020-07-09, Mecklenburg-Vorpommern, 13, , , 
+2020-07-10, Mecklenburg-Vorpommern, 13, , , 
+2020-07-11, Mecklenburg-Vorpommern, 13, , , 
+2020-07-12, Mecklenburg-Vorpommern, 13, , , 
+2020-07-13, Mecklenburg-Vorpommern, 13, , , 
+2020-07-14, Mecklenburg-Vorpommern, 13, , , 
+2020-07-15, Mecklenburg-Vorpommern, 13, , , 
+2020-07-16, Mecklenburg-Vorpommern, 13, , , 
+2020-07-17, Mecklenburg-Vorpommern, 13, , , 
+2020-07-18, Mecklenburg-Vorpommern, 13, , , 
+2020-07-19, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-20, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-21, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-22, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-23, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-24, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-25, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-07-26, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-27, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-07-28, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-07-29, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-07-30, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2020-07-31, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2020-08-01, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2020-08-02, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2020-08-03, Mecklenburg-Vorpommern, 13, 0.2483, 0.1242, 0.0153
+2020-08-04, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2020-08-05, Mecklenburg-Vorpommern, 13, 0.2483, 0.1242, 0.0153
+2020-08-06, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-08-07, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-08-08, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-08-09, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-08-10, Mecklenburg-Vorpommern, 13, 0.1862, -0.1242, -0.019
+2020-08-11, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-08-12, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2020-08-13, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-08-14, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2020-08-15, Mecklenburg-Vorpommern, 13, 0.3104, 0.1242, 0.0153
+2020-08-16, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2020-08-17, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2020-08-18, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2020-08-19, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2020-08-20, Mecklenburg-Vorpommern, 13, 0.1242, 0.0621, 0.0076
+2020-08-21, Mecklenburg-Vorpommern, 13, 0.0621, -0.1242, -0.019
+2020-08-22, Mecklenburg-Vorpommern, 13, , , 
+2020-08-23, Mecklenburg-Vorpommern, 13, , , 
+2020-08-24, Mecklenburg-Vorpommern, 13, , , 
+2020-08-25, Mecklenburg-Vorpommern, 13, , , 
+2020-08-26, Mecklenburg-Vorpommern, 13, , , 
+2020-08-27, Mecklenburg-Vorpommern, 13, , , 
+2020-08-28, Mecklenburg-Vorpommern, 13, , , 
+2020-08-29, Mecklenburg-Vorpommern, 13, , , 
+2020-08-30, Mecklenburg-Vorpommern, 13, , , 
+2020-08-31, Mecklenburg-Vorpommern, 13, , , 
+2020-09-01, Mecklenburg-Vorpommern, 13, , , 
+2020-09-02, Mecklenburg-Vorpommern, 13, , , 
+2020-09-03, Mecklenburg-Vorpommern, 13, , , 
+2020-09-04, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-09-05, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-09-06, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-09-07, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-09-08, Mecklenburg-Vorpommern, 13, 0.1242, -0.1862, -0.0286
+2020-09-09, Mecklenburg-Vorpommern, 13, 0.1242, -0.1242, -0.019
+2020-09-10, Mecklenburg-Vorpommern, 13, 0.1862, -0.1242, -0.019
+2020-09-11, Mecklenburg-Vorpommern, 13, 0.1242, -0.1862, -0.0286
+2020-09-12, Mecklenburg-Vorpommern, 13, 0.1242, -0.1862, -0.0286
+2020-09-13, Mecklenburg-Vorpommern, 13, 0.1242, -0.0621, -0.0095
+2020-09-14, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-09-15, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-09-16, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2020-09-17, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2020-09-18, Mecklenburg-Vorpommern, 13, 0.1862, , 
+2020-09-19, Mecklenburg-Vorpommern, 13, 0.3725, 0.1242, 0.0153
+2020-09-20, Mecklenburg-Vorpommern, 13, 0.4967, 0.0621, 0.0076
+2020-09-21, Mecklenburg-Vorpommern, 13, 0.4967, 0.0621, 0.0076
+2020-09-22, Mecklenburg-Vorpommern, 13, 0.4346, 0.1862, 0.0229
+2020-09-23, Mecklenburg-Vorpommern, 13, 0.4967, 0.1862, 0.0229
+2020-09-24, Mecklenburg-Vorpommern, 13, 0.4967, 0.1862, 0.0229
+2020-09-25, Mecklenburg-Vorpommern, 13, 0.4967, 0.3104, 0.0382
+2020-09-26, Mecklenburg-Vorpommern, 13, 0.3104, 0.0621, 0.0076
+2020-09-27, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-09-28, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2020-09-29, Mecklenburg-Vorpommern, 13, 0.1862, -0.1242, -0.019
+2020-09-30, Mecklenburg-Vorpommern, 13, 0.1862, -0.1862, -0.0286
+2020-10-01, Mecklenburg-Vorpommern, 13, 0.1862, -0.1862, -0.0286
+2020-10-02, Mecklenburg-Vorpommern, 13, 0.3725, , 
+2020-10-03, Mecklenburg-Vorpommern, 13, 0.3725, -0.3104, -0.0476
+2020-10-04, Mecklenburg-Vorpommern, 13, 0.4346, -0.1862, -0.0286
+2020-10-05, Mecklenburg-Vorpommern, 13, 0.4967, -0.0621, -0.0095
+2020-10-06, Mecklenburg-Vorpommern, 13, 0.5587, 0.1862, 0.0229
+2020-10-07, Mecklenburg-Vorpommern, 13, 0.5587, 0.1862, 0.0229
+2020-10-08, Mecklenburg-Vorpommern, 13, 0.5587, 0.2483, 0.0305
+2020-10-09, Mecklenburg-Vorpommern, 13, 0.4967, , 
+2020-10-10, Mecklenburg-Vorpommern, 13, 0.6208, 0.1862, 0.0229
+2020-10-11, Mecklenburg-Vorpommern, 13, 0.745, 0.1862, 0.0229
+2020-10-12, Mecklenburg-Vorpommern, 13, 0.8691, 0.1862, 0.0229
+2020-10-13, Mecklenburg-Vorpommern, 13, 0.8691, 0.3725, 0.0458
+2020-10-14, Mecklenburg-Vorpommern, 13, 0.9312, 0.4346, 0.0534
+2020-10-15, Mecklenburg-Vorpommern, 13, 1.3658, 0.5587, 0.0687
+2020-10-16, Mecklenburg-Vorpommern, 13, 1.4279, 0.8071, 0.0992
+2020-10-17, Mecklenburg-Vorpommern, 13, 1.49, 0.4967, 0.0611
+2020-10-18, Mecklenburg-Vorpommern, 13, 1.8004, 0.745, 0.0916
+2020-10-19, Mecklenburg-Vorpommern, 13, 1.7383, 0.745, 0.0916
+2020-10-20, Mecklenburg-Vorpommern, 13, 1.8004, 0.4346, 0.0534
+2020-10-21, Mecklenburg-Vorpommern, 13, 2.0487, 0.2483, 0.0305
+2020-10-22, Mecklenburg-Vorpommern, 13, 2.0487, 0.6208, 0.0763
+2020-10-23, Mecklenburg-Vorpommern, 13, 2.1729, 0.4967, 0.0611
+2020-10-24, Mecklenburg-Vorpommern, 13, 2.6695, 1.4279, 0.1756
+2020-10-25, Mecklenburg-Vorpommern, 13, 2.297, 0.6829, 0.084
+2020-10-26, Mecklenburg-Vorpommern, 13, 2.3591, 0.745, 0.0916
+2020-10-27, Mecklenburg-Vorpommern, 13, 2.3591, 0.6829, 0.084
+2020-10-28, Mecklenburg-Vorpommern, 13, 2.4833, 0.8071, 0.0992
+2020-10-29, Mecklenburg-Vorpommern, 13, 2.5454, 0.1242, 0.0153
+2020-10-30, Mecklenburg-Vorpommern, 13, 2.7316, 0.1242, 0.0153
+2020-10-31, Mecklenburg-Vorpommern, 13, 2.3591, -1.1175, -0.1714
+2020-11-01, Mecklenburg-Vorpommern, 13, 2.6695, -0.4346, -0.0667
+2020-11-02, Mecklenburg-Vorpommern, 13, 2.7316, -0.6208, -0.0952
+2020-11-03, Mecklenburg-Vorpommern, 13, 2.7937, -0.8071, -0.1238
+2020-11-04, Mecklenburg-Vorpommern, 13, 3.042, -0.5587, -0.0857
+2020-11-05, Mecklenburg-Vorpommern, 13, 3.1662, 0.1242, 0.0153
+2020-11-06, Mecklenburg-Vorpommern, 13, 3.4766, 0.0621, 0.0076
+2020-11-07, Mecklenburg-Vorpommern, 13, 3.787, 1.1175, 0.1374
+2020-11-08, Mecklenburg-Vorpommern, 13, 3.6008, 1.0554, 0.1298
+2020-11-09, Mecklenburg-Vorpommern, 13, 3.6008, 1.3658, 0.1679
+2020-11-10, Mecklenburg-Vorpommern, 13, 3.4145, 1.4279, 0.1756
+2020-11-11, Mecklenburg-Vorpommern, 13, 3.3524, 0.745, 0.0916
+2020-11-12, Mecklenburg-Vorpommern, 13, 3.6008, -0.2483, -0.0381
+2020-11-13, Mecklenburg-Vorpommern, 13, 3.6008, 0.5587, 0.0687
+2020-11-14, Mecklenburg-Vorpommern, 13, 4.0353, -0.0621, -0.0095
+2020-11-15, Mecklenburg-Vorpommern, 13, 4.532, 0.3104, 0.0382
+2020-11-16, Mecklenburg-Vorpommern, 13, 4.7182, 0.4967, 0.0611
+2020-11-17, Mecklenburg-Vorpommern, 13, 5.1528, 1.1175, 0.1374
+2020-11-18, Mecklenburg-Vorpommern, 13, 5.5253, 1.8625, 0.229
+2020-11-19, Mecklenburg-Vorpommern, 13, 5.339, 2.1729, 0.2672
+2020-11-20, Mecklenburg-Vorpommern, 13, 5.4632, 1.3037, 0.1603
+2020-11-21, Mecklenburg-Vorpommern, 13, 5.5253, 1.0554, 0.1298
+2020-11-22, Mecklenburg-Vorpommern, 13, 4.9666, 0.4346, 0.0534
+2020-11-23, Mecklenburg-Vorpommern, 13, 4.6561, -0.2483, -0.0381
+2020-11-24, Mecklenburg-Vorpommern, 13, 4.9045, -0.5587, -0.0857
+2020-11-25, Mecklenburg-Vorpommern, 13, 4.7182, -0.8691, -0.1333
+2020-11-26, Mecklenburg-Vorpommern, 13, 4.9666, -0.1862, -0.0286
+2020-11-27, Mecklenburg-Vorpommern, 13, 4.7803, -0.1242, -0.019
+2020-11-28, Mecklenburg-Vorpommern, 13, 4.7182, , 
+2020-11-29, Mecklenburg-Vorpommern, 13, 4.9666, 0.1862, 0.0229
+2020-11-30, Mecklenburg-Vorpommern, 13, 5.277, 0.8071, 0.0992
+2020-12-01, Mecklenburg-Vorpommern, 13, 5.1528, 0.6208, 0.0763
+2020-12-02, Mecklenburg-Vorpommern, 13, 5.0907, 0.1862, 0.0229
+2020-12-03, Mecklenburg-Vorpommern, 13, 5.339, -0.0621, -0.0095
+2020-12-04, Mecklenburg-Vorpommern, 13, 5.7115, 0.3725, 0.0458
+2020-12-05, Mecklenburg-Vorpommern, 13, 5.5874, 0.4346, 0.0534
+2020-12-06, Mecklenburg-Vorpommern, 13, 5.8978, 0.3104, 0.0382
+2020-12-07, Mecklenburg-Vorpommern, 13, 6.1461, 0.1242, 0.0153
+2020-12-08, Mecklenburg-Vorpommern, 13, 6.8911, 1.4279, 0.1756
+2020-12-09, Mecklenburg-Vorpommern, 13, 8.1327, 1.9866, 0.2443
+2020-12-10, Mecklenburg-Vorpommern, 13, 8.5052, 2.0487, 0.2519
+2020-12-11, Mecklenburg-Vorpommern, 13, 8.6294, 1.8625, 0.229
+2020-12-12, Mecklenburg-Vorpommern, 13, 9.126, 2.1729, 0.2672
+2020-12-13, Mecklenburg-Vorpommern, 13, 9.4985, 2.4212, 0.2977
+2020-12-14, Mecklenburg-Vorpommern, 13, 9.3744, 2.297, 0.2824
+2020-12-15, Mecklenburg-Vorpommern, 13, 9.126, 1.1796, 0.145
+2020-12-16, Mecklenburg-Vorpommern, 13, 8.6294, 0.2483, 0.0305
+2020-12-17, Mecklenburg-Vorpommern, 13, 9.3744, 0.5587, 0.0687
+2020-12-18, Mecklenburg-Vorpommern, 13, 9.7469, 0.6829, 0.084
+2020-12-19, Mecklenburg-Vorpommern, 13, 9.871, 1.2416, 0.1527
+2020-12-20, Mecklenburg-Vorpommern, 13, 9.9331, 0.8691, 0.1069
+2020-12-21, Mecklenburg-Vorpommern, 13, 9.9952, 0.6208, 0.0763
+2020-12-22, Mecklenburg-Vorpommern, 13, 9.4985, 0.1862, 0.0229
+2020-12-23, Mecklenburg-Vorpommern, 13, 10.4919, 1.0554, 0.1298
+2020-12-24, Mecklenburg-Vorpommern, 13, 9.6848, -0.1242, -0.019
+2020-12-25, Mecklenburg-Vorpommern, 13, 8.5673, -1.3037, -0.2
+2020-12-26, Mecklenburg-Vorpommern, 13, 8.2569, -2.3591, -0.3619
+2020-12-27, Mecklenburg-Vorpommern, 13, 7.7602, -2.297, -0.3524
+2020-12-28, Mecklenburg-Vorpommern, 13, 7.7602, -1.9866, -0.3048
+2020-12-29, Mecklenburg-Vorpommern, 13, 8.8156, -0.745, -0.1143
+2020-12-30, Mecklenburg-Vorpommern, 13, 13.0993, 3.1041, 0.3817
+2020-12-31, Mecklenburg-Vorpommern, 13, 13.8443, 3.8491, 0.4733
+2021-01-01, Mecklenburg-Vorpommern, 13, 14.5893, 5.0907, 0.626
+2021-01-02, Mecklenburg-Vorpommern, 13, 14.7134, 5.5874, 0.687
+2021-01-03, Mecklenburg-Vorpommern, 13, 15.4584, 5.7736, 0.7099
+2021-01-04, Mecklenburg-Vorpommern, 13, 15.4584, 6.3944, 0.7863
+2021-01-05, Mecklenburg-Vorpommern, 13, 15.7067, 5.4011, 0.6641
+2021-01-06, Mecklenburg-Vorpommern, 13, 12.6647, -2.7937, -0.4286
+2021-01-07, Mecklenburg-Vorpommern, 13, 12.7268, -2.9799, -0.4571
+2021-01-08, Mecklenburg-Vorpommern, 13, 13.4097, -2.0487, -0.3143
+2021-01-09, Mecklenburg-Vorpommern, 13, 14.5272, -1.8625, -0.2857
+2021-01-10, Mecklenburg-Vorpommern, 13, 14.7134, -2.3591, -0.3619
+2021-01-11, Mecklenburg-Vorpommern, 13, 14.6513, -2.9799, -0.4571
+2021-01-12, Mecklenburg-Vorpommern, 13, 15.0238, -2.6074, -0.4
+2021-01-13, Mecklenburg-Vorpommern, 13, 14.6513, 0.9933, 0.1221
+2021-01-14, Mecklenburg-Vorpommern, 13, 15.8309, 1.3037, 0.1603
+2021-01-15, Mecklenburg-Vorpommern, 13, 16.5759, 0.1862, 0.0229
+2021-01-16, Mecklenburg-Vorpommern, 13, 16.7, -0.2483, -0.0381
+2021-01-17, Mecklenburg-Vorpommern, 13, 17.1967, 0.1862, 0.0229
+2021-01-18, Mecklenburg-Vorpommern, 13, 17.9417, 1.3037, 0.1603
+2021-01-19, Mecklenburg-Vorpommern, 13, 17.8175, 1.552, 0.1908
+2021-01-20, Mecklenburg-Vorpommern, 13, 17.0725, 1.8004, 0.2214
+2021-01-21, Mecklenburg-Vorpommern, 13, 16.2034, 1.1175, 0.1374
+2021-01-22, Mecklenburg-Vorpommern, 13, 15.0859, 0.0621, 0.0076
+2021-01-23, Mecklenburg-Vorpommern, 13, 14.5272, 0.2483, 0.0305
+2021-01-24, Mecklenburg-Vorpommern, 13, 13.7822, -0.3725, -0.0571
+2021-01-25, Mecklenburg-Vorpommern, 13, 14.0305, -1.6762, -0.2571
+2021-01-26, Mecklenburg-Vorpommern, 13, 12.7889, -1.9866, -0.3048
+2021-01-27, Mecklenburg-Vorpommern, 13, 13.658, -1.1175, -0.1714
+2021-01-28, Mecklenburg-Vorpommern, 13, 14.2168, 0.3104, 0.0382
+2021-01-29, Mecklenburg-Vorpommern, 13, 14.5893, 1.3658, 0.1679
+2021-01-30, Mecklenburg-Vorpommern, 13, 15.0859, 2.9179, 0.3588
+2021-01-31, Mecklenburg-Vorpommern, 13, 14.8997, 3.1662, 0.3893
+2021-02-01, Mecklenburg-Vorpommern, 13, 14.0305, 2.4833, 0.3053
+2021-02-02, Mecklenburg-Vorpommern, 13, 14.7134, 3.5387, 0.4351
+2021-02-03, Mecklenburg-Vorpommern, 13, 13.7822, 2.1729, 0.2672
+2021-02-04, Mecklenburg-Vorpommern, 13, 13.0372, 0.1862, 0.0229
+2021-02-05, Mecklenburg-Vorpommern, 13, 13.2855, 0.1242, 0.0153
+2021-02-06, Mecklenburg-Vorpommern, 13, 12.7268, -2.1108, -0.3238
+2021-02-07, Mecklenburg-Vorpommern, 13, 12.7889, -1.552, -0.2381
+2021-02-08, Mecklenburg-Vorpommern, 13, 13.1614, -0.3725, -0.0571
+2021-02-09, Mecklenburg-Vorpommern, 13, 13.1614, -1.552, -0.2381
+2021-02-10, Mecklenburg-Vorpommern, 13, 12.9751, -1.3037, -0.2
+2021-02-11, Mecklenburg-Vorpommern, 13, 12.2922, -0.4346, -0.0667
+2021-02-12, Mecklenburg-Vorpommern, 13, 11.2368, -0.9933, -0.1524
+2021-02-13, Mecklenburg-Vorpommern, 13, 10.5539, -1.49, -0.2286
+2021-02-14, Mecklenburg-Vorpommern, 13, 10.0573, -2.0487, -0.3143
+2021-02-15, Mecklenburg-Vorpommern, 13, 9.6227, -2.7937, -0.4286
+2021-02-16, Mecklenburg-Vorpommern, 13, 9.3744, -2.9799, -0.4571
+2021-02-17, Mecklenburg-Vorpommern, 13, 9.6227, -2.4212, -0.3714
+2021-02-18, Mecklenburg-Vorpommern, 13, 9.6848, -2.1729, -0.3333
+2021-02-19, Mecklenburg-Vorpommern, 13, 9.9952, -1.8004, -0.2762
+2021-02-20, Mecklenburg-Vorpommern, 13, 10.4298, -0.8071, -0.1238
+2021-02-21, Mecklenburg-Vorpommern, 13, 11.0506, 0.1242, 0.0153
+2021-02-22, Mecklenburg-Vorpommern, 13, 11.2989, 0.3725, 0.0458
+2021-02-23, Mecklenburg-Vorpommern, 13, 10.4298, 0.1862, 0.0229
+2021-02-24, Mecklenburg-Vorpommern, 13, 9.5606, -1.2416, -0.1905
+2021-02-25, Mecklenburg-Vorpommern, 13, 8.8156, -1.49, -0.2286
+2021-02-26, Mecklenburg-Vorpommern, 13, 8.6915, -1.6762, -0.2571
+2021-02-27, Mecklenburg-Vorpommern, 13, 8.7536, -2.0487, -0.3143
+2021-02-28, Mecklenburg-Vorpommern, 13, 9.2502, -2.7937, -0.4286
+2021-03-01, Mecklenburg-Vorpommern, 13, 8.9398, -3.1662, -0.4857
+2021-03-02, Mecklenburg-Vorpommern, 13, 9.4365, -1.49, -0.2286
+2021-03-03, Mecklenburg-Vorpommern, 13, 9.1881, 0.3725, 0.0458
+2021-03-04, Mecklenburg-Vorpommern, 13, 9.4365, 1.2416, 0.1527
+2021-03-05, Mecklenburg-Vorpommern, 13, 8.6294, 0.2483, 0.0305
+2021-03-06, Mecklenburg-Vorpommern, 13, 8.319, 0.3725, 0.0458
+2021-03-07, Mecklenburg-Vorpommern, 13, 7.0773, -0.2483, -0.0381
+2021-03-08, Mecklenburg-Vorpommern, 13, 6.7669, 0.1862, 0.0229
+2021-03-09, Mecklenburg-Vorpommern, 13, 6.5186, -1.2416, -0.1905
+2021-03-10, Mecklenburg-Vorpommern, 13, 7.5119, -1.49, -0.2286
+2021-03-11, Mecklenburg-Vorpommern, 13, 7.8844, -2.6695, -0.4095
+2021-03-12, Mecklenburg-Vorpommern, 13, 9.064, -0.1862, -0.0286
+2021-03-13, Mecklenburg-Vorpommern, 13, 9.2502, -0.1862, -0.0286
+2021-03-14, Mecklenburg-Vorpommern, 13, 9.871, 0.8071, 0.0992
+2021-03-15, Mecklenburg-Vorpommern, 13, 9.9331, 1.4279, 0.1756
+2021-03-16, Mecklenburg-Vorpommern, 13, 10.3677, 1.552, 0.1908
+2021-03-17, Mecklenburg-Vorpommern, 13, 9.6227, 0.8691, 0.1069
+2021-03-18, Mecklenburg-Vorpommern, 13, 8.7536, 0.8691, 0.1069
+2021-03-19, Mecklenburg-Vorpommern, 13, 8.2569, -0.6208, -0.0952
+2021-03-20, Mecklenburg-Vorpommern, 13, 8.6915, -1.1175, -0.1714
+2021-03-21, Mecklenburg-Vorpommern, 13, 9.3123, -1.0554, -0.1619
+2021-03-22, Mecklenburg-Vorpommern, 13, 9.4365, -0.9312, -0.1429
+2021-03-23, Mecklenburg-Vorpommern, 13, 9.126, -1.2416, -0.1905
+2021-03-24, Mecklenburg-Vorpommern, 13, 9.7469, -0.3725, -0.0571
+2021-03-25, Mecklenburg-Vorpommern, 13, 11.8577, 0.5587, 0.0687
+2021-03-26, Mecklenburg-Vorpommern, 13, 12.5406, 1.0554, 0.1298
+2021-03-27, Mecklenburg-Vorpommern, 13, 12.6026, 1.7383, 0.2137
+2021-03-28, Mecklenburg-Vorpommern, 13, 12.4785, 1.3658, 0.1679
+2021-03-29, Mecklenburg-Vorpommern, 13, 12.6647, 0.9312, 0.1145
+2021-03-30, Mecklenburg-Vorpommern, 13, 13.0372, 1.49, 0.1832
+2021-03-31, Mecklenburg-Vorpommern, 13, 13.1614, 0.745, 0.0916
+2021-04-01, Mecklenburg-Vorpommern, 13, 11.5472, 0.1242, 0.0153
+2021-04-02, Mecklenburg-Vorpommern, 13, 11.1127, -0.4967, -0.0762
+2021-04-03, Mecklenburg-Vorpommern, 13, 10.7402, -1.49, -0.2286
+2021-04-04, Mecklenburg-Vorpommern, 13, 9.7469, -1.6141, -0.2476
+2021-04-05, Mecklenburg-Vorpommern, 13, 9.9952, -1.4279, -0.219
+2021-04-06, Mecklenburg-Vorpommern, 13, 9.9952, -1.6141, -0.2476
+2021-04-07, Mecklenburg-Vorpommern, 13, 8.4431, -1.49, -0.2286
+2021-04-08, Mecklenburg-Vorpommern, 13, 15.6447, 5.9599, 0.7328
+2021-04-09, Mecklenburg-Vorpommern, 13, 16.3896, 6.6428, 0.8168
+2021-04-10, Mecklenburg-Vorpommern, 13, 16.8863, 7.6361, 0.9389
+2021-04-11, Mecklenburg-Vorpommern, 13, 17.5071, 8.1327, 1
+2021-04-12, Mecklenburg-Vorpommern, 13, 17.1967, 7.574, 0.9313
+2021-04-13, Mecklenburg-Vorpommern, 13, 17.6313, 7.4498, 0.916
+2021-04-14, Mecklenburg-Vorpommern, 13, 19.8041, 8.0707, 0.9924
+2021-04-15, Mecklenburg-Vorpommern, 13, 13.5339, -5.2149, -0.8
+2021-04-16, Mecklenburg-Vorpommern, 13, 12.851, -5.5874, -0.8571
+2021-04-17, Mecklenburg-Vorpommern, 13, 13.1614, -5.5874, -0.8571
+2021-04-18, Mecklenburg-Vorpommern, 13, 13.1614, -6.2703, -0.9619
+2021-04-19, Mecklenburg-Vorpommern, 13, 13.658, -6.1461, -0.9429
+2021-04-20, Mecklenburg-Vorpommern, 13, 13.4097, -5.9599, -0.9143
+2021-04-21, Mecklenburg-Vorpommern, 13, 13.2855, -6.5186, -1
+2021-04-22, Mecklenburg-Vorpommern, 13, 13.1614, -0.4346, -0.0667
+2021-04-23, Mecklenburg-Vorpommern, 13, 13.5959, 0.1242, 0.0153
+2021-04-24, Mecklenburg-Vorpommern, 13, 13.5959, 0.3725, 0.0458
+2021-04-25, Mecklenburg-Vorpommern, 13, 13.1614, 0.6208, 0.0763
+2021-04-26, Mecklenburg-Vorpommern, 13, 13.0372, 0.8071, 0.0992
+2021-04-27, Mecklenburg-Vorpommern, 13, 12.7268, 0.9933, 0.1221
+2021-04-28, Mecklenburg-Vorpommern, 13, 12.4164, 0.745, 0.0916
+2021-04-29, Mecklenburg-Vorpommern, 13, 11.7956, 0.3725, 0.0458
+2021-04-30, Mecklenburg-Vorpommern, 13, 11.4231, -0.1862, -0.0286
+2021-05-01, Mecklenburg-Vorpommern, 13, 10.8023, -0.9312, -0.1429
+2021-05-02, Mecklenburg-Vorpommern, 13, 10.616, -0.6829, -0.1048
+2021-05-03, Mecklenburg-Vorpommern, 13, 10.1194, -1.552, -0.2381
+2021-05-04, Mecklenburg-Vorpommern, 13, 10.1194, -1.0554, -0.1619
+2021-05-05, Mecklenburg-Vorpommern, 13, 9.5606, -1.4279, -0.219
+2021-05-06, Mecklenburg-Vorpommern, 13, 9.6848, -1.1175, -0.1714
+2021-05-07, Mecklenburg-Vorpommern, 13, 9.1881, -0.745, -0.1143
+2021-05-08, Mecklenburg-Vorpommern, 13, 8.1948, -1.2416, -0.1905
+2021-05-09, Mecklenburg-Vorpommern, 13, 7.8223, -1.4279, -0.219
+2021-05-10, Mecklenburg-Vorpommern, 13, 7.7602, -0.8071, -0.1238
+2021-05-11, Mecklenburg-Vorpommern, 13, 7.2636, -1.8625, -0.2857
+2021-05-12, Mecklenburg-Vorpommern, 13, 6.3324, -1.1796, -0.181
+2021-05-13, Mecklenburg-Vorpommern, 13, 5.7115, -2.0487, -0.3143
+2021-05-14, Mecklenburg-Vorpommern, 13, 5.4632, -2.7316, -0.419
+2021-05-15, Mecklenburg-Vorpommern, 13, 4.7182, -1.8625, -0.2857
+2021-05-16, Mecklenburg-Vorpommern, 13, 5.0907, -1.6762, -0.2571
+2021-05-17, Mecklenburg-Vorpommern, 13, 5.339, -1.2416, -0.1905
+2021-05-18, Mecklenburg-Vorpommern, 13, 5.5874, -0.5587, -0.0857
+2021-05-19, Mecklenburg-Vorpommern, 13, 5.6495, -0.2483, -0.0381
+2021-05-20, Mecklenburg-Vorpommern, 13, 5.0907, 0.745, 0.0916
+2021-05-21, Mecklenburg-Vorpommern, 13, 5.0907, 1.1796, 0.145
+2021-05-22, Mecklenburg-Vorpommern, 13, 5.2149, 1.6762, 0.2061
+2021-05-23, Mecklenburg-Vorpommern, 13, 4.7803, 1.1796, 0.145
+2021-05-24, Mecklenburg-Vorpommern, 13, 4.3457, 0.4346, 0.0534
+2021-05-25, Mecklenburg-Vorpommern, 13, 3.6008, -0.9312, -0.1429
+2021-05-26, Mecklenburg-Vorpommern, 13, 2.4833, -1.6762, -0.2571
+2021-05-27, Mecklenburg-Vorpommern, 13, 2.235, -2.1108, -0.3238
+2021-05-28, Mecklenburg-Vorpommern, 13, 1.6141, -2.6695, -0.4095
+2021-05-29, Mecklenburg-Vorpommern, 13, 1.552, -3.1662, -0.4857
+2021-05-30, Mecklenburg-Vorpommern, 13, 1.3658, -3.1041, -0.4762
+2021-05-31, Mecklenburg-Vorpommern, 13, 1.3037, -2.6695, -0.4095
+2021-06-01, Mecklenburg-Vorpommern, 13, 1.3658, -1.9245, -0.2952
+2021-06-02, Mecklenburg-Vorpommern, 13, 1.3037, -1.2416, -0.1905
+2021-06-03, Mecklenburg-Vorpommern, 13, 1.3037, -0.8691, -0.1333
+2021-06-04, Mecklenburg-Vorpommern, 13, 1.0554, -0.3725, -0.0571
+2021-06-05, Mecklenburg-Vorpommern, 13, 0.8071, -0.3104, -0.0476
+2021-06-06, Mecklenburg-Vorpommern, 13, 0.8071, , 
+2021-06-07, Mecklenburg-Vorpommern, 13, 0.745, -0.1242, -0.019
+2021-06-08, Mecklenburg-Vorpommern, 13, 0.6208, -0.3104, -0.0476
+2021-06-09, Mecklenburg-Vorpommern, 13, 0.6829, -0.1242, -0.019
+2021-06-10, Mecklenburg-Vorpommern, 13, 0.6829, -0.3725, -0.0571
+2021-06-11, Mecklenburg-Vorpommern, 13, 0.6208, -0.2483, -0.0381
+2021-06-12, Mecklenburg-Vorpommern, 13, 0.6208, -0.1242, -0.019
+2021-06-13, Mecklenburg-Vorpommern, 13, 0.6829, , 
+2021-06-14, Mecklenburg-Vorpommern, 13, 0.6829, , 
+2021-06-15, Mecklenburg-Vorpommern, 13, 0.8071, 0.1862, 0.0229
+2021-06-16, Mecklenburg-Vorpommern, 13, 0.6829, -0.0621, -0.0095
+2021-06-17, Mecklenburg-Vorpommern, 13, 0.5587, -0.1862, -0.0286
+2021-06-18, Mecklenburg-Vorpommern, 13, 0.5587, -0.1242, -0.019
+2021-06-19, Mecklenburg-Vorpommern, 13, 0.4967, -0.1862, -0.0286
+2021-06-20, Mecklenburg-Vorpommern, 13, 0.3104, -0.4346, -0.0667
+2021-06-21, Mecklenburg-Vorpommern, 13, 0.3104, -0.4346, -0.0667
+2021-06-22, Mecklenburg-Vorpommern, 13, 0.1862, -0.6208, -0.0952
+2021-06-23, Mecklenburg-Vorpommern, 13, 0.3104, -0.3725, -0.0571
+2021-06-24, Mecklenburg-Vorpommern, 13, 0.2483, -0.2483, -0.0381
+2021-06-25, Mecklenburg-Vorpommern, 13, 0.3104, -0.3104, -0.0476
+2021-06-26, Mecklenburg-Vorpommern, 13, 0.3104, -0.2483, -0.0381
+2021-06-27, Mecklenburg-Vorpommern, 13, 0.3725, , 
+2021-06-28, Mecklenburg-Vorpommern, 13, 0.3104, , 
+2021-06-29, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2021-06-30, Mecklenburg-Vorpommern, 13, 0.1862, -0.1242, -0.019
+2021-07-01, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2021-07-02, Mecklenburg-Vorpommern, 13, 0.1242, -0.1242, -0.019
+2021-07-03, Mecklenburg-Vorpommern, 13, 0.1242, -0.0621, -0.0095
+2021-07-04, Mecklenburg-Vorpommern, 13, 0.0621, -0.1862, -0.0286
+2021-07-05, Mecklenburg-Vorpommern, 13, 0.0621, -0.1242, -0.019
+2021-07-06, Mecklenburg-Vorpommern, 13, 0.0621, -0.1862, -0.0286
+2021-07-07, Mecklenburg-Vorpommern, 13, , , 
+2021-07-08, Mecklenburg-Vorpommern, 13, , , 
+2021-07-09, Mecklenburg-Vorpommern, 13, , , 
+2021-07-10, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2021-07-11, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2021-07-12, Mecklenburg-Vorpommern, 13, 0.1242, -0.0621, -0.0095
+2021-07-13, Mecklenburg-Vorpommern, 13, 0.1242, -0.0621, -0.0095
+2021-07-14, Mecklenburg-Vorpommern, 13, 0.1862, 0.0621, 0.0076
+2021-07-15, Mecklenburg-Vorpommern, 13, 0.3104, 0.1242, 0.0153
+2021-07-16, Mecklenburg-Vorpommern, 13, 0.3104, 0.1862, 0.0229
+2021-07-17, Mecklenburg-Vorpommern, 13, 0.2483, 0.1242, 0.0153
+2021-07-18, Mecklenburg-Vorpommern, 13, 0.3104, 0.1242, 0.0153
+2021-07-19, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2021-07-20, Mecklenburg-Vorpommern, 13, 0.2483, 0.0621, 0.0076
+2021-07-21, Mecklenburg-Vorpommern, 13, 0.1862, -0.0621, -0.0095
+2021-07-22, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2021-07-23, Mecklenburg-Vorpommern, 13, 0.0621, , 
+2021-07-24, Mecklenburg-Vorpommern, 13, 0.1242, -0.1862, -0.0286
+2021-07-25, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2021-07-26, Mecklenburg-Vorpommern, 13, 0.1242, , 
+2021-07-27, Mecklenburg-Vorpommern, 13, 0.1862, , 
+2021-07-28, Mecklenburg-Vorpommern, 13, 0.3725, -0.1242, -0.019
+2021-07-29, Mecklenburg-Vorpommern, 13, 0.4967, 0.0621, 0.0076
+2021-07-30, Mecklenburg-Vorpommern, 13, 0.5587, 0.0621, 0.0076
+2021-07-31, Mecklenburg-Vorpommern, 13, 0.4967, 0.3104, 0.0382
+2021-08-01, Mecklenburg-Vorpommern, 13, 0.4346, 0.2483, 0.0305
+2021-08-02, Mecklenburg-Vorpommern, 13, 0.4346, 0.3725, 0.0458
+2021-08-03, Mecklenburg-Vorpommern, 13, 0.3725, 0.3104, 0.0382
+2021-08-04, Mecklenburg-Vorpommern, 13, 0.2483, 0.1862, 0.0229
+2021-08-05, Mecklenburg-Vorpommern, 13, 0.2483, , 
+2021-08-06, Mecklenburg-Vorpommern, 13, 0.4346, -0.0621, -0.0095
+2021-08-07, Mecklenburg-Vorpommern, 13, 0.8071, -0.1242, -0.019
+2021-08-08, Mecklenburg-Vorpommern, 13, 0.8071, -0.0621, -0.0095
+2021-08-09, Mecklenburg-Vorpommern, 13, 0.8691, -0.0621, -0.0095
+2021-08-10, Mecklenburg-Vorpommern, 13, 0.9933, 0.3104, 0.0382
+2021-08-11, Mecklenburg-Vorpommern, 13, 1.3658, 0.6208, 0.0763
+2021-08-12, Mecklenburg-Vorpommern, 13, 1.49, 0.8691, 0.1069
+2021-08-13, Mecklenburg-Vorpommern, 13, 1.49, 1.0554, 0.1298
+2021-08-14, Mecklenburg-Vorpommern, 13, 1.6762, 1.2416, 0.1527
+2021-08-15, Mecklenburg-Vorpommern, 13, 1.8004, 1.3658, 0.1679
+2021-08-16, Mecklenburg-Vorpommern, 13, 2.1729, 1.49, 0.1832
+2021-08-17, Mecklenburg-Vorpommern, 13, 2.297, 1.1796, 0.145
+2021-08-18, Mecklenburg-Vorpommern, 13, 2.235, 0.6829, 0.084
+2021-08-19, Mecklenburg-Vorpommern, 13, 1.9866, 0.4346, 0.0534
+2021-08-20, Mecklenburg-Vorpommern, 13, 2.0487, 0.1862, 0.0229
+2021-08-21, Mecklenburg-Vorpommern, 13, 1.9866, -0.6829, -0.1048
+2021-08-22, Mecklenburg-Vorpommern, 13, 2.1108, -0.4346, -0.0667
+2021-08-23, Mecklenburg-Vorpommern, 13, 1.8625, -0.9312, -0.1429
+2021-08-24, Mecklenburg-Vorpommern, 13, 1.6762, -0.9933, -0.1524
+2021-08-25, Mecklenburg-Vorpommern, 13, 1.4279, -0.745, -0.1143
+2021-08-26, Mecklenburg-Vorpommern, 13, 1.6141, -0.6208, -0.0952
+2021-08-27, Mecklenburg-Vorpommern, 13, 1.8004, -0.1862, -0.0286
+2021-08-28, Mecklenburg-Vorpommern, 13, 1.8004, 0.5587, 0.0687
+2021-08-29, Mecklenburg-Vorpommern, 13, 1.6762, 0.1242, 0.0153
+2021-08-30, Mecklenburg-Vorpommern, 13, 1.6141, 0.3725, 0.0458
+2021-08-31, Mecklenburg-Vorpommern, 13, 1.6762, 0.4346, 0.0534
+2021-09-01, Mecklenburg-Vorpommern, 13, 2.1108, 0.4967, 0.0611
+2021-09-02, Mecklenburg-Vorpommern, 13, 2.1729, 0.4967, 0.0611
+2021-09-03, Mecklenburg-Vorpommern, 13, 1.9245, 0.1242, 0.0153
+2021-09-04, Mecklenburg-Vorpommern, 13, 1.552, -0.4967, -0.0762
+2021-09-05, Mecklenburg-Vorpommern, 13, 1.9245, -0.3725, -0.0571
+2021-09-06, Mecklenburg-Vorpommern, 13, 1.9245, -0.3725, -0.0571
+2021-09-07, Mecklenburg-Vorpommern, 13, 1.9245, -0.2483, -0.0381
+2021-09-08, Mecklenburg-Vorpommern, 13, 1.552, -0.6208, -0.0952
+2021-09-09, Mecklenburg-Vorpommern, 13, 1.4279, -0.6829, -0.1048
+2021-09-10, Mecklenburg-Vorpommern, 13, 1.3658, -0.6829, -0.1048
+2021-09-11, Mecklenburg-Vorpommern, 13, 1.4279, -0.2483, -0.0381
+2021-09-12, Mecklenburg-Vorpommern, 13, 1.0554, -0.4346, -0.0667
+2021-09-13, Mecklenburg-Vorpommern, 13, 0.9312, -0.4967, -0.0762
+2021-09-14, Mecklenburg-Vorpommern, 13, 0.8691, -0.4346, -0.0667
+2021-09-15, Mecklenburg-Vorpommern, 13, 0.6829, -0.1862, -0.0286
+2021-09-16, Mecklenburg-Vorpommern, 13, 0.9933, -0.0621, -0.0095
+2021-09-17, Mecklenburg-Vorpommern, 13, 0.8691, 0.1862, 0.0229

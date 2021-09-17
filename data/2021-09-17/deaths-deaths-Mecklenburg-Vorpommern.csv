@@ -1,0 +1,77 @@
+Week, difference, region, region_id, trend, value
+2020-14, , Mecklenburg-Vorpommern, 13, , 0.2483
+2020-15, 0.1242, Mecklenburg-Vorpommern, 13, 0.0741, 0.3725
+2020-16, -0.1242, Mecklenburg-Vorpommern, 13, -0.087, 0.2483
+2020-17, -0.1862, Mecklenburg-Vorpommern, 13, -0.1304, 0.0621
+2020-18, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.1242
+2020-19, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 0.0621
+2020-20, , Mecklenburg-Vorpommern, 13, , 0.0621
+2020-21, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 
+2020-22, , Mecklenburg-Vorpommern, 13, , 
+2020-23, , Mecklenburg-Vorpommern, 13, , 
+2020-24, , Mecklenburg-Vorpommern, 13, , 
+2020-25, , Mecklenburg-Vorpommern, 13, , 
+2020-26, , Mecklenburg-Vorpommern, 13, , 
+2020-27, , Mecklenburg-Vorpommern, 13, , 
+2020-28, , Mecklenburg-Vorpommern, 13, , 
+2020-29, , Mecklenburg-Vorpommern, 13, , 
+2020-30, , Mecklenburg-Vorpommern, 13, , 
+2020-31, , Mecklenburg-Vorpommern, 13, , 
+2020-32, , Mecklenburg-Vorpommern, 13, , 
+2020-33, , Mecklenburg-Vorpommern, 13, , 
+2020-34, , Mecklenburg-Vorpommern, 13, , 
+2020-35, , Mecklenburg-Vorpommern, 13, , 
+2020-36, , Mecklenburg-Vorpommern, 13, , 
+2020-37, , Mecklenburg-Vorpommern, 13, , 
+2020-38, , Mecklenburg-Vorpommern, 13, , 
+2020-39, , Mecklenburg-Vorpommern, 13, , 
+2020-40, , Mecklenburg-Vorpommern, 13, , 
+2020-41, , Mecklenburg-Vorpommern, 13, , 
+2020-42, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.0621
+2020-43, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 
+2020-44, 0.1242, Mecklenburg-Vorpommern, 13, 0.0741, 0.1242
+2020-45, 0.2483, Mecklenburg-Vorpommern, 13, 0.1481, 0.3725
+2020-46, 0.1862, Mecklenburg-Vorpommern, 13, 0.1111, 0.5587
+2020-47, 0.3725, Mecklenburg-Vorpommern, 13, 0.2222, 0.9312
+2020-48, -0.4346, Mecklenburg-Vorpommern, 13, -0.3043, 0.4967
+2020-49, 0.3104, Mecklenburg-Vorpommern, 13, 0.1852, 0.8071
+2020-50, 0.5587, Mecklenburg-Vorpommern, 13, 0.3333, 1.3658
+2020-51, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 1.3037
+2020-52, 0.2483, Mecklenburg-Vorpommern, 13, 0.1481, 1.552
+2020-53, 0.6208, Mecklenburg-Vorpommern, 13, 0.3704, 2.1729
+2021-01, 1.6762, Mecklenburg-Vorpommern, 13, 1, 3.8491
+2021-02, -0.1862, Mecklenburg-Vorpommern, 13, -0.1304, 3.6628
+2021-03, 0.3725, Mecklenburg-Vorpommern, 13, 0.2222, 4.0353
+2021-04, 1.2416, Mecklenburg-Vorpommern, 13, 0.7407, 5.277
+2021-05, 0.6829, Mecklenburg-Vorpommern, 13, 0.4074, 5.9599
+2021-06, -0.745, Mecklenburg-Vorpommern, 13, -0.5217, 5.2149
+2021-07, -1.4279, Mecklenburg-Vorpommern, 13, -1, 3.787
+2021-08, -0.6829, Mecklenburg-Vorpommern, 13, -0.4783, 3.1041
+2021-09, -0.9312, Mecklenburg-Vorpommern, 13, -0.6522, 2.1729
+2021-10, -0.1862, Mecklenburg-Vorpommern, 13, -0.1304, 1.9866
+2021-11, -0.6208, Mecklenburg-Vorpommern, 13, -0.4348, 1.3658
+2021-12, -0.2483, Mecklenburg-Vorpommern, 13, -0.1739, 1.1175
+2021-13, 0.6829, Mecklenburg-Vorpommern, 13, 0.4074, 1.8004
+2021-14, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 1.7383
+2021-15, -0.3104, Mecklenburg-Vorpommern, 13, -0.2174, 1.4279
+2021-16, 0.9312, Mecklenburg-Vorpommern, 13, 0.5556, 2.3591
+2021-17, -0.1862, Mecklenburg-Vorpommern, 13, -0.1304, 2.1729
+2021-18, 0.5587, Mecklenburg-Vorpommern, 13, 0.3333, 2.7316
+2021-19, -0.5587, Mecklenburg-Vorpommern, 13, -0.3913, 2.1729
+2021-20, -0.3104, Mecklenburg-Vorpommern, 13, -0.2174, 1.8625
+2021-21, -1.1175, Mecklenburg-Vorpommern, 13, -0.7826, 0.745
+2021-22, -0.3725, Mecklenburg-Vorpommern, 13, -0.2609, 0.3725
+2021-23, 0.8071, Mecklenburg-Vorpommern, 13, 0.4815, 1.1796
+2021-24, -0.9933, Mecklenburg-Vorpommern, 13, -0.6957, 0.1862
+2021-25, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.2483
+2021-26, , Mecklenburg-Vorpommern, 13, , 0.2483
+2021-27, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.3104
+2021-28, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 0.2483
+2021-29, 0.4346, Mecklenburg-Vorpommern, 13, 0.2593, 0.6829
+2021-30, -0.4346, Mecklenburg-Vorpommern, 13, -0.3043, 0.2483
+2021-31, -0.0621, Mecklenburg-Vorpommern, 13, -0.0435, 0.1862
+2021-32, -0.1242, Mecklenburg-Vorpommern, 13, -0.087, 0.0621
+2021-33, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.1242
+2021-34, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.1862
+2021-35, 0.0621, Mecklenburg-Vorpommern, 13, 0.037, 0.2483
+2021-36, -0.1242, Mecklenburg-Vorpommern, 13, -0.087, 0.1242
