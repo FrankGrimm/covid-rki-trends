@@ -1,5 +1,9 @@
 # covid-rki-trends
 
+## archived
+
+This repository is archived since RKI now makes hospitalization data available in the [official repository](https://github.com/robert-koch-institut/COVID-19-Hospitalisierungen_in_Deutschland).
+
 ## description
 
 Script to extract data from the [RKI Trends dashboard](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/COVID-19-Trends/COVID-19-Trends.html?__blob=publicationFile#/home).
